@@ -1,0 +1,12 @@
+Add
+    butter
+    sugar
+    cocoa
+    eggs
+    vanilla
+    baking powder
+    salt
+
+Bake
+    350 degrees fahr
+    about 20 minutes
